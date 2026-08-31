@@ -1,2 +1,3 @@
 # Transboundary-air-pollution
-Data file for master thesis
+To record the (i.) data file, (ii.) code for the regresssions, (iii.) results of model 1-3
+
